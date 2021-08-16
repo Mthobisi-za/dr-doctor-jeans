@@ -1,0 +1,45 @@
+body{
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+.nav{
+    width: 100%;
+    height: auto;
+}
+.head{
+    margin: 0;
+    margin-left: 40px;
+}
+.tabs{
+    width: 100%;
+    text-align: center;
+}
+.tabs a{
+    padding: 20px;
+    background: grey;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.img,.img2{
+    width: 100%;
+    height: auto;
+}
+.img2{
+    width: 100%;
+    text-align: right;
+}
+img{
+    width: 25%;
+    height: auto;
+    border-radius: 50%;
+}.kop{
+    width: 25%;
+    text-align: right;
+}
+footer{
+    text-align: center;
+    background: grey;
+    margin-bottom: 0;
+}
